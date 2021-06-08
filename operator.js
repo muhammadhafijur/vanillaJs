@@ -1,7 +1,7 @@
                                     // OPERATOR
 
 
-    // 2 + 4 = 6   /*  '+' is a operator and '2' is operand */
+    // 2 + 4 = 6   /*  '+' is a operator and '2' and '4' is operand */
 
 /* 
 

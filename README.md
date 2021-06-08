@@ -1,1 +1,1 @@
-# vanillaJs
+# Exploring Vanilla Javascript
